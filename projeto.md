@@ -305,7 +305,7 @@ https://www.figma.com/file/FwQ2dFRINnI8tQhk4Du9en/Untitled?type=design&node-id=0
 
 
 # Diagrama de Sequências
-
+![Diagrama de de Sequências](/img/DiagramaSequencia_SelecionarItem.png)
 [ [INÍCIO](#fibonacci-management-system) ]
 
 # Diagrama de Atividades
