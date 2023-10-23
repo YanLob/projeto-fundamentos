@@ -308,6 +308,8 @@ https://www.figma.com/file/FwQ2dFRINnI8tQhk4Du9en/Untitled?type=design&node-id=0
 ![Diagrama de de Sequências](/img/DiagramaSequencia_SelecionarItem.png)
 ![Diagrama de de Sequências](/img/VerificarEstoque.png)
 ![Diagrama de de Sequências](/img/cadastro.png)
+![Diagrama de de Sequências](/img/escolherlugardeentrega.png)
+
 [ [INÍCIO](#fibonacci-management-system) ]
 
 # Diagrama de Atividades
