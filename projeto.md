@@ -305,16 +305,16 @@ https://www.figma.com/file/FwQ2dFRINnI8tQhk4Du9en/Untitled?type=design&node-id=0
 
 
 # Diagrama de Sequências
-![Diagrama de de Sequências](/img/DiagramaSequencia_SelecionarItem.png)
-![Diagrama de de Sequências](/img/VerificarEstoque.png)
-![Diagrama de de Sequências](/img/cadastro.png)
-![Diagrama de de Sequências](/img/escolherlugardeentrega.png)
-![Diagrama de de Sequências](/img/EnviarRatreamento.png)
+![Diagrama de Sequências](/img/DiagramaSequencia_SelecionarItem.png)
+![Diagrama de Sequências](/img/VerificarEstoque.png)
+![Diagrama de Sequências](/img/cadastro.png)
+![Diagrama de Sequências](/img/escolherlugardeentrega.png)
+![Diagrama de Sequências](/img/EnviarRatreamento.png)
 
 [ [INÍCIO](#fibonacci-management-system) ]
 
 # Diagrama de Atividades
-
+![Diagrama de Atividade](/img/TEc.png)
 
 # REFERÊNCIAS
 
